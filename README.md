@@ -23,10 +23,9 @@ Provides users with a platform to discover, upload, and manage high-quality wall
 - Layered separation of UI, services, and data
 
 📸 **Screenshots**
-![Home Gallery](screenshots/home.png)
-![Upload Screen](screenshots/upload.png)
-![Profile Screen](screenshots/profile.png)
-![Image Details](screenshots/details.png)
+![Splash Screen](screenshots/splashscreen.jpeg)
+![Home Gallery](screenshots/homescreen.jpeg)
+![Image Details](screenshots/photoview.jpeg)
 
 📦 **Download / Try App**
 APK available on request
